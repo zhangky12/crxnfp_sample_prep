@@ -1,5 +1,9 @@
 # crxnfp_sample_prep
 
+## Requirements
+
+The required Python libraries and versions can be found in requirement.txt
+
 ## Prepare for the training data of crxnfp
 
 1. Calculate the DRFP fingerprints for 3M USPTO reactions in a multi-process way (multi-process-text.py)
