@@ -13,7 +13,7 @@ The required Python libraries and versions can be found in requirement.txt
 
 ## Data
 
-https://drive.switch.ch/index.php/s/10kLm31tdnailZS
+https://zenodo.org/records/16996192<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/39eedfb0-14d8-42aa-9916-9b0eac7589f3" />
 
 uspto_all_reactions_training.txt:  USPTO reactions 
 
